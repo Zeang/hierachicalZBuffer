@@ -1,0 +1,4 @@
+﻿  quadtree.cpp
+d:\desktop\senior\graphics\assignments\hierarchical_zbuffer\quadtree.cpp(8): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  hierarchical_zbuffer.vcxproj -> D:\Desktop\senior\graphics\assignments\x64\Debug\hierarchical_zbuffer.exe
